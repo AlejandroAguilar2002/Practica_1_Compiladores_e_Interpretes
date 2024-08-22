@@ -51,9 +51,9 @@ public class UsoPersonaje {
 		personaje.salta();
 		personaje.salta();
 		personaje.espera();
-		/**
-		 * Añadí dos instrucciones salta, salta y cambie la instrucción
-		 * espera hacía el final de la lista
-		 */
+		//Añadí dos instrucciones salta, salta y cambie la instrucción espera hacía el final de la lista
+
+		  
+		 
 	}
 }
